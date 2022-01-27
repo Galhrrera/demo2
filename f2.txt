@@ -1,0 +1,3 @@
+habia una ez un estudiante
+creando lineas en un archivo de texto
+para practicar git
